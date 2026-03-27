@@ -54,15 +54,6 @@ Me tornar um desenvolvedor de software, criando soluções eficientes, organizad
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nate-Allen21&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nate-Allen21&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 📌 Observação
 
 Este perfil está em constante evolução, acompanhando meu desenvolvimento na área de tecnologia.
