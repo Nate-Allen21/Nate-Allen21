@@ -1,8 +1,8 @@
 # 👨‍💻 Nathan Silva
 
-<!-- Animação de texto -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Estudante+de+Desenvolvimento+de+Sistemas;Apaixonado+por+Tecnologia;Futuro+Desenvolvedor+Full+Stack\&center=true\&width=500\&height=50)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+Desenvolvimento+de+Sistemas;Futuro+Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia&center=true&width=500&height=50">
+</p>
 
 ---
 
@@ -10,42 +10,70 @@
 
 🎓 Estudante de Técnico em Desenvolvimento de Sistemas
 🏫 SENAC – Taguatinga/DF
-💡 Focado em desenvolvimento de software e evolução contínua
+💡 Interesse em desenvolvimento de software e soluções tecnológicas
+
+Sou dedicado ao aprendizado contínuo, buscando evoluir minhas habilidades práticas em programação e desenvolver projetos que resolvam problemas reais.
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
-* 🌐 HTML, CSS, JavaScript
-* 🎨 Bootstrap
-* 🔧 Git e GitHub
-* 🧠 Lógica de Programação
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-## 📚 Em aprendizado
+## 📚 Atualmente estudando
 
 * 🚀 JavaScript avançado
 * 🧩 Desenvolvimento Full Stack
 * 📐 Boas práticas de programação
+* 🏗️ Estruturação de projetos
 
 ---
 
 ## 🎯 Objetivo
 
-Me tornar um desenvolvedor profissional, criando soluções modernas, eficientes e escaláveis.
+Me tornar um desenvolvedor de software, contribuindo com soluções eficientes, organizadas e com foco em qualidade.
 
 ---
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nathan-silva-77a74a2a0/)
+<p>
+  <a href="https://www.linkedin.com/in/nathan-silva-77a74a2a0/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats (opcional)
+## 📊 Estatísticas do GitHub
 
-![Nathan GitHub stats](https://github-readme-stats.vercel.app/api?username=Nate-Allen21\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nate-Allen21&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nate-Allen21&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nate-Allen21/Nate-Allen21/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## 📌 Observação
+
+Este perfil está em constante evolução, acompanhando meu desenvolvimento na área de tecnologia.
 
 ---
 
