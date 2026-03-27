@@ -1,52 +1,52 @@
 # 👨‍💻 Nathan Silva
 
+<!-- Animação de texto -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Estudante+de+Desenvolvimento+de+Sistemas;Apaixonado+por+Tecnologia;Futuro+Desenvolvedor+Full+Stack\&center=true\&width=500\&height=50)](https://git.io/typing-svg)
+
+---
+
+## 📌 Sobre mim
+
 🎓 Estudante de Técnico em Desenvolvimento de Sistemas
 🏫 SENAC – Taguatinga/DF
-💡 Focado em desenvolvimento de software e evolução contínua na área de tecnologia
+💡 Focado em desenvolvimento de software e evolução contínua
 
 ---
 
-## 📖 Sobre
+## 🛠️ Tecnologias
 
-Atualmente em formação na área de desenvolvimento de sistemas, com dedicação ao aprimoramento de habilidades técnicas e resolução de problemas. Busco aplicar na prática conceitos de programação, organização de código e desenvolvimento de soluções eficientes.
-
----
-
-## 🛠️ Competências Técnicas
-
-* 🌐 Desenvolvimento Web (HTML, CSS, JavaScript)
-* 🎨 Interface e responsividade com Bootstrap
-* 🔧 Versionamento com Git e GitHub
-* 🧠 Lógica de Programação e Algoritmos
-* 🗄️ Fundamentos de Banco de Dados
+* 🌐 HTML, CSS, JavaScript
+* 🎨 Bootstrap
+* 🔧 Git e GitHub
+* 🧠 Lógica de Programação
 
 ---
 
-## 📚 Em Desenvolvimento
+## 📚 Em aprendizado
 
 * 🚀 JavaScript avançado
 * 🧩 Desenvolvimento Full Stack
-* 📐 Boas práticas de engenharia de software
-* 🏗️ Estruturação de projetos escaláveis
+* 📐 Boas práticas de programação
 
 ---
 
-## 🎯 Objetivo Profissional
+## 🎯 Objetivo
 
-Atuar como desenvolvedor de software, contribuindo para a criação de soluções modernas, eficientes e bem estruturadas, com foco em qualidade e experiência do usuário.
-
----
-
-## 📫 Contato
-
-* GitHub: https://github.com/Nate-Allen21
+Me tornar um desenvolvedor profissional, criando soluções modernas, eficientes e escaláveis.
 
 ---
 
-## 📌 Observações
+## 🌐 Conecte-se comigo
 
-Este perfil está em constante evolução, acompanhando meu desenvolvimento técnico e acadêmico. Novos projetos e melhorias serão adicionados continuamente.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nathan-silva-77a74a2a0/)
 
 ---
 
-⭐ Obrigado pela visita ao meu perfil!
+## 📊 GitHub Stats (opcional)
+
+![Nathan GitHub stats](https://github-readme-stats.vercel.app/api?username=Nate-Allen21\&show_icons=true\&theme=tokyonight)
+
+---
+
+⭐ Obrigado por visitar meu perfil!
