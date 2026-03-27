@@ -57,8 +57,8 @@ Me tornar um desenvolvedor de software, criando soluções eficientes, organizad
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nate-Allen21&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nate-Allen21&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nate-Allen21&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nate-Allen21&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
