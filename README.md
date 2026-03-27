@@ -12,7 +12,7 @@
 🏫 SENAC – Taguatinga/DF
 💡 Interesse em desenvolvimento de software e soluções tecnológicas
 
-Sou dedicado ao aprendizado contínuo, buscando evoluir minhas habilidades práticas em programação e desenvolver projetos que resolvam problemas reais.
+Sou dedicado ao aprendizado contínuo, buscando evoluir minhas habilidades práticas em programação e desenvolver projetos reais.
 
 ---
 
@@ -40,7 +40,7 @@ Sou dedicado ao aprendizado contínuo, buscando evoluir minhas habilidades prát
 
 ## 🎯 Objetivo
 
-Me tornar um desenvolvedor de software, contribuindo com soluções eficientes, organizadas e com foco em qualidade.
+Me tornar um desenvolvedor de software, criando soluções eficientes, organizadas e com foco em qualidade.
 
 ---
 
@@ -57,7 +57,7 @@ Me tornar um desenvolvedor de software, contribuindo com soluções eficientes, 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nate-Allen21&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nate-Allen21&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nate-Allen21&layout=compact&theme=tokyonight"/>
 </p>
 
@@ -66,7 +66,7 @@ Me tornar um desenvolvedor de software, contribuindo com soluções eficientes, 
 ## 🐍 Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nate-Allen21/Nate-Allen21/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Nate-Allen21/Nate-Allen21/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
