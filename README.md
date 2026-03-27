@@ -63,14 +63,6 @@ Me tornar um desenvolvedor de software, criando soluções eficientes, organizad
 
 ---
 
-## 🐍 Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nate-Allen21/Nate-Allen21/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 ## 📌 Observação
 
 Este perfil está em constante evolução, acompanhando meu desenvolvimento na área de tecnologia.
