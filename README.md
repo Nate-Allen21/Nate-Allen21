@@ -15,11 +15,16 @@
 const nathan = {
   nome: "Nathan Rodrigues",
   marca: "NATE.DEV",
-  localizacao: "Distrito Federal, Brasil",
-  formacao: "Técnico em Desenvolvimento de Sistemas | SENAC",
-  interesses: ["Desenvolvimento de Software", "Games", "Inteligência Artificial"],
-  objetivo: "Criar experiências digitais úteis, criativas e bem construídas",
-  status: "Aprendendo, construindo e evoluindo 🚀"
+  local: "Distrito Federal, Brasil",
+  formacao: "Técnico em Desenvolvimento de Sistemas",
+  instituicao: "SENAC",
+  interesses: [
+    "Desenvolvimento de Software",
+    "Games",
+    "Inteligência Artificial"
+  ],
+  objetivo: "Criar experiências digitais úteis",
+  status: "Aprendendo e evoluindo 🚀"
 };
 ```
 
@@ -80,7 +85,7 @@ Sou um desenvolvedor em formação, apaixonado por transformar ideias em projeto
 
 <div align="center">
 
-<!-- Esta imagem será gerada automaticamente pelo workflow em .github/workflows/snake.yml -->
+<!-- A animação aparecerá após executar Actions > Generate contribution snake > Run workflow. -->
 <img src="https://raw.githubusercontent.com/Nate-Allen21/Nate-Allen21/output/github-contribution-grid-snake-dark.svg" alt="Animação da cobrinha percorrendo as contribuições" width="100%" />
 
 </div>
